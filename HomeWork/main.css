@@ -1,0 +1,115 @@
+
+
+.Main_menu
+{
+Width: 760px;
+Height: 50px;
+color: black;
+line-height: 50px;
+background-color: white;
+border-top: 0.5px solid rgb(241, 241, 241);
+border-left: 0.5px solid rgb(241, 241, 241);
+border-right:  0.5px solid rgb(241, 241, 241);
+}
+
+.Header
+{
+Width: 760px;
+Height: 150px;
+text-align: center;
+font-size: 25px;
+color: white;
+font-weight: bold;
+line-height:150px;
+background-image: url(thumnail/css-baliklama12.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+border-left: 0.5px solid rgb(241, 241, 241);
+border-right:  0.5px solid rgb(241, 241, 241)
+}
+.thumnail2{
+    float: right;
+    margin-top: 57px;
+    margin-right: 25px;
+}
+
+.Content
+{
+Width: 480px;
+height: 420px;
+font-size: 16px;
+border-left: 0.5px solid rgb(241, 241, 241)
+
+}
+H3{
+    color: rgb(255, 134, 14);   
+    padding-left: 15px;
+}
+h4{
+    font-weight: normal;
+    padding-left: 15px;
+    
+}
+b{
+    font-weight: normal;
+    color: rgb(255, 134, 14);
+}
+.contact{
+    color: rgb(111, 86, 84);
+    padding-left: 15px;
+}
+
+
+.Side_bar{
+Width: 280px; 
+height: 420px; 
+
+}
+.side{
+    color: rgb(137, 156, 31);
+    padding-left: 30px;
+}
+.side2{
+    font-size: 17px;
+}
+.green{
+    color:rgb(137, 156, 31) ;
+}
+
+.Footers{
+Width: 760px;
+Height: 66px;
+display: flex;
+color: rgba(0,0,0,0.3);
+border-top: 0.5px solid rgb(241, 241, 241);
+
+}
+.info{
+    display: flex;
+}
+#nav{
+    display: flex;
+    
+}
+.nav{
+    margin-left: 11px;
+    padding: 0px 8px 0px 8px;
+    cursor: pointer;
+}
+.nav:hover{
+    background-color: rgb(222, 109, 16);
+}
+pre{
+    font-size: 16px;
+    font-family: 'Times New Roman';
+}
+.left{
+    width: 480;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+.right{
+    width: 280;
+    padding-left: 79px;
+    margin-top: 10px;
+}
